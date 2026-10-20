@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tropical Fish</string>
+    <string name="titulo_config">Conexión al servidor</string>
+    <string name="hint_url">http://192.168.0.5:8080  o  URL ngrok</string>
+    <string name="btn_conectar">Conectar</string>
+    <string name="menu_cambiar">Cambiar servidor</string>
+    <string name="menu_recargar">Recargar</string>
+    <string name="error_conexion">No se pudo conectar con el servidor. Verifica la URL y que el equipo esté encendido.</string>
+</resources>

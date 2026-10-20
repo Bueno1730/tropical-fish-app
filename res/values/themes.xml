@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TemaTF" parent="android:Theme.Material.Light">
+        <item name="android:statusBarColor">@color/azul_900</item>
+        <item name="android:navigationBarColor">@color/azul_900</item>
+        <item name="android:colorAccent">@color/aqua</item>
+    </style>
+</resources>
